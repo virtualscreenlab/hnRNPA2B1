@@ -1,0 +1,157 @@
+7	26196414	A>C,G	snv	117082250	benign	by-frequency;by-alfa;by-cluster	synonymous_variant;non_coding_transcript_variant;missense_variant;coding_sequence_variant	HNRNPA2B1	G:0.002596:13:1000Genomes|G:0.007265:28:ALSPAC|G:0.003348:15:Estonian|G:0.004767:578:ExAC|G:0.003289:1:FINRISK|G:0.004806:674:GnomAD|G:0.005382:70:GoESP|G:0.007014:7:GoNL|G:0.007491:4:MGP|G:0.003333:2:NorthernSweden|G:0.00463:1:Qatari|G:0.004647:1230:TOPMED|G:0.011057:41:TWINSUK|G:0.006679:331:ALFA
+7	26196449	C>T	snv	200929422	likely-benign	by-frequency;by-alfa;by-cluster	coding_sequence_variant;non_coding_transcript_variant;missense_variant	HNRNPA2B1	T:0.000259:1:ALSPAC|T:0.000222:27:ExAC|T:0.000407:57:GnomAD|T:0.000366:92:GnomAD_exomes|T:0.000154:2:GoESP|T:0.000432:34:PAGE_STUDY|T:0.000298:5:TOMMO|T:0.000468:124:TOPMED|T:0.:0:TWINSUK|T:0.000272:54:ALFA
+7	26193346	T>A	snv	397515326	pathogenic	by-cluster	non_coding_transcript_variant;coding_sequence_variant;missense_variant	HNRNPA2B1	
+7	26197725	T>C	snv	751281272	uncertain-significance	by-frequency;by-alfa;by-cluster	coding_sequence_variant;missense_variant;non_coding_transcript_variant	HNRNPA2B1	C:0.000017:2:ExAC|C:0.000036:5:GnomAD|C:0.000016:4:GnomAD_exomes|C:0.00003:8:TOPMED|C:0.000142:2:ALFA
+7	26196982	C>A,T	snv	759627147	likely-benign	by-frequency;by-cluster	non_coding_transcript_variant;synonymous_variant;coding_sequence_variant;missense_variant	HNRNPA2B1	A:0.000008:1:ExAC
+7	26196629	T>C	snv	1353165662	uncertain-significance	by-frequency	non_coding_transcript_variant;missense_variant;coding_sequence_variant	HNRNPA2B1	C:0.000004:1:GnomAD_exomes
+7	26193619	T>C	snv	1554331125	uncertain-significance	by-frequency;by-alfa	missense_variant;non_coding_transcript_variant;coding_sequence_variant;intron_variant	HNRNPA2B1	C:0.000011:3:TOPMED|C:0.000094:1:ALFA
+7	26192530	T>C	snv	117917826		by-frequency;by-alfa;by-cluster	non_coding_transcript_variant;missense_variant;coding_sequence_variant	HNRNPA2B1	C:0.013839:1653:ExAC|C:0.005464:10:Korea1K|C:0.000013:1:PAGE_STUDY|C:0.:0:ALFA
+7	26200574	C>T	snv	147300722		by-cluster	missense_variant;non_coding_transcript_variant;2KB_upstream_variant;upstream_transcript_variant;coding_sequence_variant	HNRNPA2B1;CBX3	
+7	26195874	A>G	snv	150779330		by-frequency;by-alfa;by-cluster	missense_variant;coding_sequence_variant;non_coding_transcript_variant	HNRNPA2B1	G:0.000008:1:ExAC|G:0.000007:1:GnomAD|G:0.000004:1:GnomAD_exomes|G:0.000077:1:GoESP|G:0.000004:1:TOPMED|G:0.:0:ALFA
+7	26197626	C>G	snv	201124782		by-frequency;by-alfa;by-cluster	coding_sequence_variant;non_coding_transcript_variant;missense_variant	HNRNPA2B1	G:0.000007:1:GnomAD|G:0.000004:1:TOPMED|G:0.:0:ALFA
+7	26197385	G>A,C	snv	367619498		by-frequency;by-alfa;by-cluster	coding_sequence_variant;non_coding_transcript_variant;missense_variant	HNRNPA2B1	C:0.000008:1:ExAC|C:0.000007:1:GnomAD|C:0.000077:1:GoESP|C:0.000004:1:TOPMED|C:0.:0:ALFA
+7	26193586	T>C	snv	367958673		by-frequency;by-alfa;by-cluster	coding_sequence_variant;non_coding_transcript_variant;intron_variant;missense_variant	HNRNPA2B1	C:0.000016:2:ExAC|C:0.000022:5:GnomAD_exomes|C:0.000077:1:GoESP|C:0.000011:3:TOPMED|C:0.000028:1:ALFA
+7	26193673	G>A	snv	368483139		by-frequency;by-cluster	coding_sequence_variant;non_coding_transcript_variant;intron_variant;missense_variant	HNRNPA2B1	A:0.000008:1:ExAC|A:0.000077:1:GoESP
+7	26193272	T>C,G	snv	372687249		by-frequency;by-alfa;by-cluster	non_coding_transcript_variant;coding_sequence_variant;missense_variant	HNRNPA2B1	C:0.000041:5:ExAC|C:0.000007:1:GnomAD|C:0.000028:7:GnomAD_exomes|C:0.000077:1:GoESP|G:0.:0:ALFA
+7	26193671	C>T	snv	375157988		by-frequency;by-alfa;by-cluster	non_coding_transcript_variant;coding_sequence_variant;intron_variant;missense_variant	HNRNPA2B1	T:0.000008:1:ExAC|T:0.000036:5:GnomAD|T:0.000012:3:GnomAD_exomes|T:0.000077:1:GoESP|T:0.000064:5:PAGE_STUDY|T:0.00006:16:TOPMED|T:0.000068:1:ALFA
+7	26197419	A>G	snv	531662999		by-frequency;by-cluster	non_coding_transcript_variant;coding_sequence_variant;missense_variant	HNRNPA2B1	G:0.0002:1:1000Genomes|G:0.000008:1:ExAC|G:0.000004:1:GnomAD_exomes
+7	26193634	C>A	snv	533907485		by-frequency;by-cluster	non_coding_transcript_variant;intron_variant;coding_sequence_variant;missense_variant	HNRNPA2B1	A:0.0002:1:1000Genomes|A:0.000008:1:ExAC|A:0.000008:2:GnomAD_exomes
+7	26197341	C>A,T	snv	542884101		by-frequency;by-alfa;by-cluster	stop_gained;coding_sequence_variant;missense_variant;non_coding_transcript_variant	HNRNPA2B1	A:0.0002:1:1000Genomes|A:0.000008:1:ExAC|T:0.000004:1:TOPMED|T:0.:0:ALFA
+7	26193290	A>T	snv	553244716		by-frequency	missense_variant;coding_sequence_variant;non_coding_transcript_variant	HNRNPA2B1	T:0.001:1:GoNL
+7	26197413	T>G	snv	562669302		by-frequency;by-cluster	missense_variant;coding_sequence_variant;non_coding_transcript_variant	HNRNPA2B1	G:0.0002:1:1000Genomes|G:0.000008:1:ExAC|G:0.000004:1:GnomAD_exomes
+7	26193313	T>A	snv	573171238		by-frequency;by-alfa;by-cluster	non_coding_transcript_variant;missense_variant;coding_sequence_variant	HNRNPA2B1	A:0.000014:2:GnomAD|A:0.001002:1:GoNL|A:0.000011:3:TOPMED|A:0.:0:ALFA
+7	26193599	C>T	snv	577689101		by-frequency;by-alfa;by-cluster	missense_variant;non_coding_transcript_variant;intron_variant;coding_sequence_variant	HNRNPA2B1	T:0.0002:1:1000Genomes|T:0.000132:16:ExAC|T:0.000007:1:GnomAD|T:0.000132:31:GnomAD_exomes|T:0.000008:2:TOPMED|T:0.:0:ALFA
+7	26193625	T>C	snv	745389971		by-frequency;by-cluster	missense_variant;non_coding_transcript_variant;intron_variant;coding_sequence_variant	HNRNPA2B1	C:0.000016:2:ExAC|C:0.000008:2:GnomAD_exomes
+7	26197386	C>T	snv	746426875		by-frequency;by-alfa;by-cluster	missense_variant;non_coding_transcript_variant;coding_sequence_variant	HNRNPA2B1	T:0.000008:1:ExAC|T:0.:0:GnomAD|T:0.000004:1:GnomAD_exomes|T:0.:0:ALFA
+7	26195864	T>A,C	snv	747313003		by-frequency;by-alfa;by-cluster	missense_variant;non_coding_transcript_variant;coding_sequence_variant	HNRNPA2B1	A:0.000007:1:GnomAD|A:0.:0:ALFA
+7	26196477	G>A,C	snv	748117918		by-frequency;by-cluster	missense_variant;synonymous_variant;non_coding_transcript_variant;coding_sequence_variant	HNRNPA2B1	C:0.000008:1:ExAC
+7	26196451	C>G	snv	749677236		by-frequency;by-cluster	coding_sequence_variant;missense_variant;non_coding_transcript_variant	HNRNPA2B1	G:0.000008:1:ExAC|G:0.:0:KOREAN
+7	26196654	C>A	snv	750133179		by-frequency;by-cluster	coding_sequence_variant;missense_variant;non_coding_transcript_variant	HNRNPA2B1	A:0.000008:1:ExAC|A:0.000004:1:GnomAD_exomes
+7	26193355	T>C	snv	751974576		by-frequency;by-alfa;by-cluster	coding_sequence_variant;missense_variant;non_coding_transcript_variant	HNRNPA2B1	C:0.000008:1:ExAC|C:0.:0:GnomAD|C:0.000004:1:GnomAD_exomes|C:0.:0:ALFA
+7	26193685	A>G	snv	753907415		by-frequency;by-cluster	coding_sequence_variant;intron_variant;non_coding_transcript_variant;missense_variant	HNRNPA2B1	G:0.000008:1:ExAC|G:0.000004:1:GnomAD_exomes
+7	26196457	C>T	snv	755438446		by-frequency;by-alfa;by-cluster	coding_sequence_variant;missense_variant;non_coding_transcript_variant	HNRNPA2B1	T:0.000016:2:ExAC|T:0.000012:3:GnomAD_exomes|T:0.000004:1:TOPMED|T:0.000071:1:ALFA
+7	26197383	C>A	snv	757696101		by-frequency;by-cluster	coding_sequence_variant;missense_variant;non_coding_transcript_variant	HNRNPA2B1	A:0.000008:1:ExAC|A:0.000004:1:GnomAD_exomes
+7	26196422	T>C	snv	759591567		by-frequency;by-alfa;by-cluster	non_coding_transcript_variant;coding_sequence_variant;missense_variant	HNRNPA2B1	C:0.000008:1:ExAC|C:0.000007:1:GnomAD|C:0.000004:1:GnomAD_exomes|C:0.000008:2:TOPMED|C:0.:0:ALFA
+7	26197448	G>A	snv	760638546		by-frequency;by-cluster	non_coding_transcript_variant;coding_sequence_variant;missense_variant	HNRNPA2B1	A:0.000008:1:ExAC
+7	26197415	A>T	snv	761511106		by-frequency;by-cluster	non_coding_transcript_variant;coding_sequence_variant;missense_variant	HNRNPA2B1	T:0.000008:1:ExAC
+7	26195896	A>C,G	snv	761653754		by-frequency;by-alfa;by-cluster	non_coding_transcript_variant;synonymous_variant;coding_sequence_variant;missense_variant	HNRNPA2B1	G:0.000008:1:ExAC|G:0.000007:1:GnomAD|G:0.000004:1:TOPMED|G:0.:0:ALFA
+7	26193299	T>C	snv	761859961		by-frequency;by-cluster	non_coding_transcript_variant;coding_sequence_variant;missense_variant	HNRNPA2B1	C:0.000008:1:ExAC|C:0.000004:1:GnomAD_exomes
+7	26192546	A>C,G	snv	763021765		by-frequency;by-cluster	non_coding_transcript_variant;synonymous_variant;coding_sequence_variant;missense_variant	HNRNPA2B1	G:0.000016:2:ExAC|G:0.000012:3:GnomAD_exomes|C:0.004367:8:Korea1K
+7	26193337	T>C	snv	763226168		by-frequency;by-alfa;by-cluster	non_coding_transcript_variant;coding_sequence_variant;missense_variant	HNRNPA2B1	C:0.000008:1:ExAC|C:0.000016:4:GnomAD_exomes|C:0.000004:1:TOPMED|C:0.000071:1:ALFA
+7	26196443	T>G	snv	763643279		by-frequency;by-cluster	non_coding_transcript_variant;coding_sequence_variant;missense_variant	HNRNPA2B1	G:0.000049:6:ExAC|G:0.000028:7:GnomAD_exomes
+7	26192555	A>C,G	snv	764119920		by-frequency;by-alfa;by-cluster	non_coding_transcript_variant;synonymous_variant;coding_sequence_variant;missense_variant	HNRNPA2B1	G:0.000008:1:ExAC|G:0.000007:1:GnomAD|G:0.000004:1:GnomAD_exomes|C:0.001092:2:Korea1K|G:0.000008:2:TOPMED|G:0.:0:ALFA
+7	26196424	C>G,T	snv	765284268		by-frequency;by-cluster	non_coding_transcript_variant;coding_sequence_variant;missense_variant	HNRNPA2B1	G:0.000008:1:ExAC
+7	26196891	T>A	snv	769596479		by-frequency;by-cluster	missense_variant;non_coding_transcript_variant;coding_sequence_variant	HNRNPA2B1	A:0.000008:1:ExAC|A:0.000004:1:GnomAD_exomes
+7	26196577	C>A	snv	769781748		by-frequency;by-alfa;by-cluster	missense_variant;non_coding_transcript_variant;coding_sequence_variant	HNRNPA2B1	A:0.000008:1:ExAC|A:0.000014:2:GnomAD|A:0.000004:1:GnomAD_exomes|A:0.000004:1:TOPMED|A:0.:0:ALFA
+7	26195871	T>C	snv	769890583		by-frequency;by-cluster	missense_variant;non_coding_transcript_variant;coding_sequence_variant	HNRNPA2B1	C:0.000008:1:ExAC|C:0.000004:1:GnomAD_exomes
+7	26193259	T>C	snv	770089393		by-frequency;by-cluster	missense_variant;non_coding_transcript_variant;coding_sequence_variant	HNRNPA2B1	C:0.000008:1:ExAC|C:0.000004:1:GnomAD_exomes
+7	26193601	C>G	snv	770392533		by-frequency;by-alfa;by-cluster	missense_variant;non_coding_transcript_variant;intron_variant;coding_sequence_variant	HNRNPA2B1	G:0.000016:2:ExAC|G:0.000014:2:GnomAD|G:0.000004:1:GnomAD_exomes|G:0.000004:1:TOPMED|G:0.:0:ALFA
+7	26196478	T>C,G	snv	772251120		by-frequency;by-alfa;by-cluster	missense_variant;non_coding_transcript_variant;coding_sequence_variant	HNRNPA2B1	C:0.000016:2:ExAC|C:0.000016:4:GnomAD_exomes|C:0.000342:1:KOREAN|C:0.000028:1:ALFA
+7	26196916	T>A,C	snv	772649163		by-frequency;by-alfa;by-cluster	missense_variant;synonymous_variant;non_coding_transcript_variant;coding_sequence_variant	HNRNPA2B1	C:0.000025:3:ExAC|C:0.000012:3:GnomAD_exomes|C:0.000684:2:KOREAN|C:0.002729:5:Korea1K|C:0.000011:3:TOPMED|C:0.:0:ALFA
+7	26196902	T>C	snv	774818443		by-frequency;by-cluster	missense_variant;non_coding_transcript_variant;coding_sequence_variant	HNRNPA2B1	C:0.000008:1:ExAC|C:0.000004:1:GnomAD_exomes
+7	26196585	T>G	snv	775261393		by-frequency;by-cluster	missense_variant;non_coding_transcript_variant;coding_sequence_variant	HNRNPA2B1	G:0.000008:1:ExAC|G:0.000004:1:GnomAD_exomes
+7	26195873	T>C	snv	775496049		by-frequency;by-alfa;by-cluster	missense_variant;non_coding_transcript_variant;coding_sequence_variant	HNRNPA2B1	C:0.000017:2:ExAC|C:0.000029:4:GnomAD|C:0.000004:1:GnomAD_exomes|C:0.000026:7:TOPMED|C:0.000071:1:ALFA
+7	26196865	C>G,T	snv	776320357		by-frequency;by-alfa;by-cluster	missense_variant;synonymous_variant;non_coding_transcript_variant;coding_sequence_variant	HNRNPA2B1	T:0.000008:1:ExAC|G:0.000007:1:GnomAD|T:0.000008:2:GnomAD_exomes|G:0.000004:1:TOPMED|G:0.:0:ALFA
+7	26196810	C>A,T	snv	778726413		by-frequency;by-alfa;by-cluster	coding_sequence_variant;non_coding_transcript_variant;missense_variant	HNRNPA2B1	T:0.000008:1:ExAC|T:0.000004:1:GnomAD_exomes|A:0.000013:1:PAGE_STUDY|A:0.:0:ALFA
+7	26196466	C>G	snv	779397218		by-frequency;by-cluster	coding_sequence_variant;non_coding_transcript_variant;missense_variant	HNRNPA2B1	G:0.000008:1:ExAC|G:0.000004:1:GnomAD_exomes
+7	26193307	G>A	snv	868527511			coding_sequence_variant;missense_variant;non_coding_transcript_variant	HNRNPA2B1	
+7	26193349	T>C	snv	911715553		by-frequency;by-alfa;by-cluster	non_coding_transcript_variant;coding_sequence_variant;missense_variant	HNRNPA2B1	C:0.000014:2:GnomAD|C:0.000012:3:GnomAD_exomes|C:0.00006:1:TOMMO|C:0.000008:2:TOPMED|C:0.:0:ALFA
+7	26192559	C>G	snv	926215759		by-frequency;by-alfa;by-cluster	missense_variant;coding_sequence_variant;non_coding_transcript_variant	HNRNPA2B1	G:0.000004:1:TOPMED|G:0.:0:ALFA
+7	26192541	C>A,G	snv	937847098		by-frequency;by-alfa;by-cluster	coding_sequence_variant;missense_variant;non_coding_transcript_variant	HNRNPA2B1	A:0.001092:2:Korea1K|G:0.000004:1:TOPMED|G:0.:0:ALFA
+7	26196473	C>T	snv	950661653			missense_variant;coding_sequence_variant;non_coding_transcript_variant	HNRNPA2B1	
+7	26196930	C>G	snv	951126354		by-frequency;by-alfa;by-cluster	missense_variant;coding_sequence_variant;non_coding_transcript_variant	HNRNPA2B1	G:0.000007:1:GnomAD|G:0.000004:1:GnomAD_exomes|G:0.000008:2:TOPMED|G:0.:0:ALFA
+7	26197865	T>C	snv	953290165		by-frequency;by-alfa;by-cluster	missense_variant;coding_sequence_variant;intron_variant;non_coding_transcript_variant	HNRNPA2B1	C:0.000029:4:GnomAD|C:0.000034:9:TOPMED|C:0.:0:ALFA
+7	26193347	C>T	snv	985334692		by-frequency;by-alfa;by-cluster	coding_sequence_variant;non_coding_transcript_variant;missense_variant	HNRNPA2B1	T:0.000007:1:GnomAD|T:0.000008:2:TOPMED|T:0.:0:ALFA
+7	26196899	G>C	snv	995116237		by-frequency;by-alfa;by-cluster	coding_sequence_variant;non_coding_transcript_variant;missense_variant	HNRNPA2B1	C:0.000012:3:GnomAD_exomes|C:0.000008:2:TOPMED|C:0.:0:ALFA
+7	26193607	C>G	snv	997984275		by-frequency;by-alfa;by-cluster	coding_sequence_variant;non_coding_transcript_variant;missense_variant;intron_variant	HNRNPA2B1	G:0.000004:1:GnomAD_exomes|G:0.000004:1:TOPMED|G:0.:0:ALFA
+7	26193577	C>T	snv	1011873350		by-frequency;by-alfa;by-cluster	coding_sequence_variant;missense_variant;intron_variant;non_coding_transcript_variant	HNRNPA2B1	T:0.000004:1:TOPMED|T:0.:0:ALFA
+7	26196948	C>G	snv	1165925087		by-frequency;by-alfa;by-cluster	missense_variant;non_coding_transcript_variant;coding_sequence_variant	HNRNPA2B1	G:0.000007:1:GnomAD|G:0.000004:1:TOPMED|G:0.:0:ALFA
+7	26197672	C>G	snv	1167109409			missense_variant;non_coding_transcript_variant;coding_sequence_variant	HNRNPA2B1	
+7	26193583	T>C	snv	1181544777		by-frequency	missense_variant;coding_sequence_variant;intron_variant;non_coding_transcript_variant	HNRNPA2B1	C:0.000004:1:GnomAD_exomes
+7	26195853	G>A	snv	1182485259		by-frequency;by-alfa;by-cluster	missense_variant;coding_sequence_variant;non_coding_transcript_variant	HNRNPA2B1	A:0.000043:6:GnomAD|A:0.000042:11:TOPMED|A:0.000056:2:ALFA
+7	26195903	T>C	snv	1193509264		by-frequency	missense_variant;coding_sequence_variant;non_coding_transcript_variant	HNRNPA2B1	C:0.000004:1:GnomAD_exomes
+7	26192571	T>A,C	snv	1193919522		by-frequency;by-alfa;by-cluster	missense_variant;coding_sequence_variant;non_coding_transcript_variant	HNRNPA2B1	A:0.000007:1:GnomAD|C:0.000004:1:GnomAD_exomes|A:0.000004:1:TOPMED|A:0.:0:ALFA
+7	26193641	C>T	snv	1200427033		by-frequency;by-cluster	intron_variant;missense_variant;non_coding_transcript_variant;coding_sequence_variant	HNRNPA2B1	T:0.000007:1:GnomAD
+7	26195886	A>G	snv	1208573631		by-frequency	missense_variant;non_coding_transcript_variant;coding_sequence_variant	HNRNPA2B1	G:0.000004:1:GnomAD_exomes
+7	26197862	G>C	snv	1209127927		by-frequency	non_coding_transcript_variant;coding_sequence_variant;missense_variant;intron_variant	HNRNPA2B1	C:0.000004:1:GnomAD_exomes
+7	26197449	G>A	snv	1215020028		by-frequency;by-alfa;by-cluster	non_coding_transcript_variant;coding_sequence_variant;missense_variant	HNRNPA2B1	A:0.000007:1:GnomAD|A:0.000004:1:TOPMED|A:0.:0:ALFA
+7	26193323	G>A,C	snv	1234707634		by-frequency;by-alfa;by-cluster	missense_variant;coding_sequence_variant;non_coding_transcript_variant	HNRNPA2B1	C:0.000007:1:GnomAD|A:0.000004:1:GnomAD_exomes|C:0.:0:ALFA
+7	26192542	C>A	snv	1259022514		by-frequency	non_coding_transcript_variant;missense_variant;coding_sequence_variant	HNRNPA2B1	A:0.000004:1:GnomAD_exomes
+7	26196947	T>C	snv	1259158366		by-frequency	non_coding_transcript_variant;missense_variant;coding_sequence_variant	HNRNPA2B1	C:0.000004:1:GnomAD_exomes
+7	26193616	T>C	snv	1267219993			non_coding_transcript_variant;intron_variant;missense_variant;coding_sequence_variant	HNRNPA2B1	
+7	26196875	T>A	snv	1269990131			non_coding_transcript_variant;missense_variant;coding_sequence_variant	HNRNPA2B1	
+7	26197666	A>C,G	snv	1270756419			non_coding_transcript_variant;missense_variant;coding_sequence_variant;synonymous_variant	HNRNPA2B1	
+7	26196623	C>T	snv	1292553671			missense_variant;non_coding_transcript_variant;coding_sequence_variant	HNRNPA2B1	
+7	26193688	T>C	snv	1292889600		by-frequency;by-alfa;by-cluster	missense_variant;non_coding_transcript_variant;coding_sequence_variant;intron_variant	HNRNPA2B1	C:0.000007:1:GnomAD|C:0.000004:1:TOPMED|C:0.000071:1:ALFA
+7	26193316	T>C	snv	1301266606		by-frequency	coding_sequence_variant;non_coding_transcript_variant;missense_variant	HNRNPA2B1	C:0.000004:1:GnomAD_exomes
+7	26197359	T>C	snv	1303438607		by-frequency	coding_sequence_variant;non_coding_transcript_variant;missense_variant	HNRNPA2B1	C:0.000004:1:GnomAD_exomes
+7	26193367	T>A,C	snv	1305867367		by-frequency;by-alfa;by-cluster	coding_sequence_variant;non_coding_transcript_variant;missense_variant	HNRNPA2B1	A:0.000007:1:GnomAD|C:0.000004:1:TOPMED|C:0.:0:ALFA
+7	26193277	C>T	snv	1321052921		by-frequency;by-alfa;by-cluster	missense_variant;non_coding_transcript_variant;coding_sequence_variant	HNRNPA2B1	T:0.000021:3:GnomAD|T:0.000008:2:TOPMED|T:0.:0:ALFA
+7	26193303	C>T	snv	1329668867		by-frequency;by-alfa	missense_variant;non_coding_transcript_variant;coding_sequence_variant	HNRNPA2B1	T:0.000004:1:GnomAD_exomes|T:0.000047:1:ALFA
+7	26193622	C>T	snv	1331084801		by-frequency;by-alfa;by-cluster	missense_variant;intron_variant;non_coding_transcript_variant;coding_sequence_variant	HNRNPA2B1	T:0.000007:1:GnomAD|T:0.000004:1:TOPMED|T:0.:0:ALFA
+7	26193338	T>G	snv	1334129003		by-frequency;by-alfa;by-cluster	non_coding_transcript_variant;coding_sequence_variant;missense_variant	HNRNPA2B1	G:0.000004:1:TOPMED|G:0.:0:ALFA
+7	26192538	T>A,C	snv	1338584509		by-frequency;by-alfa;by-cluster	non_coding_transcript_variant;coding_sequence_variant;missense_variant	HNRNPA2B1	C:0.000007:1:GnomAD|C:0.000004:1:GnomAD_exomes|C:0.:0:ALFA
+7	26197843	C>G	snv	1355307327		by-frequency;by-alfa;by-cluster	non_coding_transcript_variant;missense_variant;intron_variant;coding_sequence_variant	HNRNPA2B1	G:0.000007:1:GnomAD|G:0.000084:1:ALFA
+7	26196559	C>T	snv	1367161528		by-frequency;by-cluster	non_coding_transcript_variant;coding_sequence_variant;missense_variant	HNRNPA2B1	T:0.000004:1:GnomAD_exomes
+7	26196440	A>T	snv	1376121173		by-frequency	missense_variant;coding_sequence_variant;non_coding_transcript_variant	HNRNPA2B1	T:0.000004:1:GnomAD_exomes
+7	26196421	C>T	snv	1377160953		by-frequency;by-alfa;by-cluster	missense_variant;coding_sequence_variant;non_coding_transcript_variant	HNRNPA2B1	T:0.000007:1:GnomAD|T:0.000004:1:GnomAD_exomes|T:0.000004:1:TOPMED|T:0.:0:ALFA
+7	26193592	T>A	snv	1380157710			missense_variant;coding_sequence_variant;intron_variant;non_coding_transcript_variant	HNRNPA2B1	
+7	26196995	T>A	snv	1383013389		by-frequency;by-alfa;by-cluster	missense_variant;coding_sequence_variant;non_coding_transcript_variant	HNRNPA2B1	A:0.000007:1:GnomAD|A:0.000004:1:TOPMED|A:0.000063:2:ALFA
+7	26196427	G>T	snv	1407283972		by-frequency	coding_sequence_variant;missense_variant;non_coding_transcript_variant	HNRNPA2B1	T:0.000004:1:GnomAD_exomes
+7	26195901	C>A	snv	1408443734		by-frequency;by-alfa	coding_sequence_variant;missense_variant;non_coding_transcript_variant	HNRNPA2B1	A:0.:0:ALFA
+7	26197705	A>G	snv	1411611305		by-frequency	missense_variant;non_coding_transcript_variant;coding_sequence_variant	HNRNPA2B1	G:0.000004:1:GnomAD_exomes
+7	26193287	C>T	snv	1417734292		by-frequency;by-alfa;by-cluster	missense_variant;non_coding_transcript_variant;coding_sequence_variant	HNRNPA2B1	T:0.000004:1:TOPMED|T:0.:0:ALFA
+7	26193593	A>G	snv	1418443872		by-frequency	missense_variant;non_coding_transcript_variant;intron_variant;coding_sequence_variant	HNRNPA2B1	G:0.000004:1:GnomAD_exomes
+7	26196406	C>A,T	snv	1419601428		by-frequency;by-alfa	missense_variant;non_coding_transcript_variant;coding_sequence_variant	HNRNPA2B1	T:0.000004:1:GnomAD_exomes|A:0.:0:ALFA
+7	26193588	G>A,T	snv	1425992652		by-frequency;by-alfa;by-cluster	non_coding_transcript_variant;coding_sequence_variant;missense_variant;synonymous_variant;intron_variant	HNRNPA2B1	T:0.000007:1:GnomAD|A:0.000004:1:GnomAD_exomes|T:0.000004:1:TOPMED|T:0.:0:ALFA
+7	26193631	G>A	snv	1434240961		by-frequency;by-alfa;by-cluster	coding_sequence_variant;missense_variant;non_coding_transcript_variant;intron_variant	HNRNPA2B1	A:0.000007:1:GnomAD|A:0.:0:ALFA
+7	26193694	C>T	snv	1438364196		by-frequency	intron_variant;coding_sequence_variant;non_coding_transcript_variant;missense_variant	HNRNPA2B1	T:0.000004:1:GnomAD_exomes
+7	26196960	T>C	snv	1442666925		by-frequency	coding_sequence_variant;non_coding_transcript_variant;missense_variant	HNRNPA2B1	C:0.000004:1:GnomAD_exomes
+7	26197851	C>G	snv	1448457613		by-frequency	intron_variant;coding_sequence_variant;non_coding_transcript_variant;missense_variant	HNRNPA2B1	G:0.000004:1:GnomAD_exomes
+7	26192553	C>G	snv	1452649323		by-frequency	coding_sequence_variant;non_coding_transcript_variant;missense_variant	HNRNPA2B1	G:0.000004:1:GnomAD_exomes
+7	26197374	C>A	snv	1454741686		by-frequency;by-alfa;by-cluster	coding_sequence_variant;non_coding_transcript_variant;missense_variant	HNRNPA2B1	A:0.000004:1:TOPMED|A:0.:0:ALFA
+7	26196434	G>C	snv	1465378761		by-frequency	coding_sequence_variant;missense_variant;non_coding_transcript_variant	HNRNPA2B1	C:0.000004:1:GnomAD_exomes
+7	26197670	T>G	snv	1478198722			missense_variant;coding_sequence_variant;non_coding_transcript_variant	HNRNPA2B1	
+7	26192566	G>C	snv	1478557446		by-frequency	missense_variant;coding_sequence_variant;non_coding_transcript_variant	HNRNPA2B1	C:0.000012:3:GnomAD_exomes
+7	26193320	A>G	snv	1479774677		by-frequency;by-alfa;by-cluster	missense_variant;coding_sequence_variant;non_coding_transcript_variant	HNRNPA2B1	G:0.000004:1:TOPMED|G:0.:0:ALFA
+7	26196458	G>A	snv	1480889342		by-frequency	missense_variant;coding_sequence_variant;non_coding_transcript_variant	HNRNPA2B1	A:0.000004:1:GnomAD_exomes
+7	26195891	C>T	snv	1490659113		by-frequency;by-alfa;by-cluster	missense_variant;non_coding_transcript_variant;coding_sequence_variant	HNRNPA2B1	T:0.:0:ALFA
+7	26196430	C>A	snv	1554333695			missense_variant;non_coding_transcript_variant;coding_sequence_variant	HNRNPA2B1	
+7	26193643	C>A	snv	1562701949		by-frequency;by-alfa	intron_variant;missense_variant;coding_sequence_variant;non_coding_transcript_variant	HNRNPA2B1	A:0.000007:1:GnomAD|A:0.:0:ALFA
+7	26196407	C>T	snv	1562713136		by-frequency	missense_variant;coding_sequence_variant;non_coding_transcript_variant	HNRNPA2B1	T:0.000004:1:GnomAD_exomes
+7	26197850	A>T	snv	1562719088		by-frequency	non_coding_transcript_variant;missense_variant;coding_sequence_variant;intron_variant	HNRNPA2B1	T:0.000004:1:GnomAD_exomes
+7	26193610	C>T	snv	1583970759		by-frequency	intron_variant;coding_sequence_variant;non_coding_transcript_variant;missense_variant	HNRNPA2B1	T:0.0005:1:Korea1K
+7	26193646	T>C	snv	1583970981		by-frequency	intron_variant;coding_sequence_variant;non_coding_transcript_variant;missense_variant	HNRNPA2B1	C:0.0003:1:KOREAN
+7	26195865	A>C	snv	1583985769		by-frequency	coding_sequence_variant;non_coding_transcript_variant;missense_variant	HNRNPA2B1	C:0.0016:3:Korea1K
+7	26196574	G>A,C	snv	1583990416		by-frequency;by-alfa;by-cluster	coding_sequence_variant;non_coding_transcript_variant;missense_variant	HNRNPA2B1	C:0.000546:1:Korea1K|A:0.000011:3:TOPMED|A:0.:0:ALFA
+7	26196931	T>A	snv	1583992508		by-frequency	coding_sequence_variant;non_coding_transcript_variant;missense_variant	HNRNPA2B1	A:0.0005:1:Korea1K
+7	26197376	G>A	snv	1583995662		by-frequency	coding_sequence_variant;non_coding_transcript_variant;missense_variant	HNRNPA2B1	A:0.0005:1:Korea1K
+7	26197680	G>T	snv	1583997248		by-frequency	coding_sequence_variant;non_coding_transcript_variant;missense_variant	HNRNPA2B1	T:0.0011:2:Korea1K
+7	26197728	T>C	snv	1583997384		by-frequency	coding_sequence_variant;non_coding_transcript_variant;missense_variant	HNRNPA2B1	C:0.0005:1:Korea1K
+7	26192547	C>G	snv	1783015671		by-frequency;by-alfa;by-cluster	missense_variant;non_coding_transcript_variant;coding_sequence_variant	HNRNPA2B1	G:0.000007:1:GnomAD|G:0.00006:1:TOMMO|G:0.000004:1:TOPMED|G:0.:0:ALFA
+7	26192572	A>G	snv	1783018067		by-frequency;by-alfa	missense_variant;non_coding_transcript_variant;coding_sequence_variant	HNRNPA2B1	G:0.000007:1:GnomAD|G:0.:0:ALFA
+7	26192577	C>A	snv	1783018501			missense_variant;non_coding_transcript_variant;coding_sequence_variant	HNRNPA2B1	
+7	26193257	C>T	snv	1783117624		by-frequency;by-alfa	missense_variant;non_coding_transcript_variant;coding_sequence_variant	HNRNPA2B1	T:0.000004:1:TOPMED|T:0.:0:ALFA
+7	26193352	T>C	snv	1783125359		by-frequency	missense_variant;non_coding_transcript_variant;coding_sequence_variant	HNRNPA2B1	C:0.000007:1:GnomAD
+7	26193361	C>T	snv	1783125790		by-frequency;by-alfa	missense_variant;non_coding_transcript_variant;coding_sequence_variant	HNRNPA2B1	T:0.000004:1:TOPMED|T:0.000031:1:ALFA
+7	26193370	T>C	snv	1783126651			missense_variant;non_coding_transcript_variant;coding_sequence_variant	HNRNPA2B1	
+7	26193595	C>T	snv	1783154895		by-frequency;by-alfa	missense_variant;non_coding_transcript_variant;coding_sequence_variant;intron_variant	HNRNPA2B1	T:0.:0:ALFA
+7	26193640	C>T	snv	1783159000		by-frequency;by-alfa	missense_variant;non_coding_transcript_variant;coding_sequence_variant;intron_variant	HNRNPA2B1	T:0.000004:1:TOPMED|T:0.:0:ALFA
+7	26193674	G>A	snv	1783161412		by-frequency;by-alfa	missense_variant;non_coding_transcript_variant;coding_sequence_variant;intron_variant	HNRNPA2B1	A:0.000004:1:TOPMED|A:0.:0:ALFA
+7	26193692	C>A	snv	1783162945		by-frequency;by-alfa	missense_variant;non_coding_transcript_variant;coding_sequence_variant;intron_variant	HNRNPA2B1	A:0.000004:1:TOPMED|A:0.:0:ALFA
+7	26195861	C>G	snv	1783537001		by-frequency;by-alfa	missense_variant;non_coding_transcript_variant;coding_sequence_variant	HNRNPA2B1	G:0.000007:1:GnomAD|G:0.:0:ALFA
+7	26195880	C>T	snv	1783538890		by-frequency;by-alfa	missense_variant;non_coding_transcript_variant;coding_sequence_variant	HNRNPA2B1	T:0.000007:1:GnomAD|T:0.:0:ALFA
+7	26195888	C>A	snv	1783540032		by-frequency	missense_variant;non_coding_transcript_variant;coding_sequence_variant	HNRNPA2B1	A:0.00006:1:TOMMO
+7	26195894	C>T	snv	1783541505		by-frequency	missense_variant;non_coding_transcript_variant;coding_sequence_variant	HNRNPA2B1	T:0.00006:1:TOMMO
+7	26196437	C>T	snv	1783646983		by-frequency;by-alfa	missense_variant;non_coding_transcript_variant;coding_sequence_variant	HNRNPA2B1	T:0.000008:2:TOPMED|T:0.:0:ALFA
+7	26196469	A>G	snv	1783651122		by-frequency;by-alfa	missense_variant;non_coding_transcript_variant;coding_sequence_variant	HNRNPA2B1	G:0.00005:1:ALFA
+7	26196472	C>A	snv	1783651554		by-frequency;by-alfa	missense_variant;non_coding_transcript_variant;coding_sequence_variant	HNRNPA2B1	A:0.:0:ALFA
+7	26196481	C>T	snv	1783652849		by-frequency;by-alfa	missense_variant;non_coding_transcript_variant;coding_sequence_variant	HNRNPA2B1	T:0.000004:1:TOPMED|T:0.:0:ALFA
+7	26196638	T>G	snv	1783670327		by-frequency;by-alfa;by-cluster	missense_variant;non_coding_transcript_variant;coding_sequence_variant	HNRNPA2B1	G:0.:0:GnomAD|G:0.000004:1:TOPMED|G:0.:0:ALFA
+7	26196837	C>G	snv	1783701447		by-frequency	missense_variant;non_coding_transcript_variant;coding_sequence_variant	HNRNPA2B1	G:0.00006:1:TOMMO
+7	26196897	T>C	snv	1783705528		by-frequency	missense_variant;non_coding_transcript_variant;coding_sequence_variant	HNRNPA2B1	C:0.00012:2:TOMMO
+7	26196939	G>C	snv	1783708747		by-frequency;by-alfa	missense_variant;non_coding_transcript_variant;coding_sequence_variant	HNRNPA2B1	C:0.:0:ALFA
+7	26197377	C>A	snv	1783767513		by-frequency;by-alfa	missense_variant;non_coding_transcript_variant;coding_sequence_variant	HNRNPA2B1	A:0.:0:ALFA
+7	26197723	C>T	snv	1783804265		by-frequency;by-alfa	missense_variant;non_coding_transcript_variant;coding_sequence_variant	HNRNPA2B1	T:0.00005:1:ALFA
+7	26197731	C>T	snv	1783805694		by-frequency;by-alfa;by-cluster	missense_variant;non_coding_transcript_variant;coding_sequence_variant	HNRNPA2B1	T:0.000014:2:GnomAD|T:0.000011:3:TOPMED|T:0.:0:ALFA
+7	26197853	G>A	snv	1783819522		by-frequency;by-alfa	missense_variant;non_coding_transcript_variant;intron_variant;coding_sequence_variant	HNRNPA2B1	A:0.:0:ALFA

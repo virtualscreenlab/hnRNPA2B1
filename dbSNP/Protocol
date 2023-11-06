@@ -1,0 +1,31 @@
+total: 8494
+introns: 6810
+5'-UTR: 858
+3'-UTR: 1303
+missense (nsSNP): 157
+synonymous: 204
+
+grep "3_prime" snp_result.txt > 3.txt
+grep "5_prime" snp_result.txt > 5.txt
+grep "intron_variant" snp_result.txt > intron.txt
+grep "synonymous_variant" snp_result.txt > syn.txt
+grep "missense_variant" snp_result.txt > mis.txt
+
+wc -l 3.txt
+wc -l 5.txt
+wc -l intron.txt
+wc -l syn.txt
+wc -l mis.txt
+
+python spdi_batch.py -i test_rs.txt -t RS > log
+python script.py > log.txt
+
+grep "seq_id" log.txt > nsSNP
+sed -i '/=/d' nsSNP
+sed -i '/>/d' nsSNP
+
+sort results | uniq -u > nsSNP_final
+
+18, 19, 22, 24, 26, 27, 30, 49, 50, 51, 53, 53, 54, 62, 63, 64, 66, 90, 92, 94, 95, 97, 99, 102, 108
+
+grep -E '18|19|22|24|26|27|30|49|50|51|53|53|54|62|63|64|66|90|92|94|95|97|99|102|108' nsSNP_final

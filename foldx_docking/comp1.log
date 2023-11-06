@@ -1,0 +1,104 @@
+   ********************************************
+   ***                                      ***
+   ***             FoldX 4 (c)              ***
+   ***                                      ***
+   ***     code by the FoldX Consortium     ***
+   ***                                      ***
+   ***     Jesper Borg, Frederic Rousseau   ***
+   ***    Joost Schymkowitz, Luis Serrano   ***
+   ***    Peter Vanhee, Erik Verschueren    ***
+   ***     Lies Baeten, Javier Delgado      ***
+   ***       and Francois Stricher          ***
+   *** and any other of the 9! permutations ***
+   ***   based on an original concept by    ***
+   ***   Raphael Guerois and Luis Serrano   ***
+   ********************************************
+
+Start FoldX AnalyseComplex >>>
+
+MainChain Atoms P missing for ./comp1.pdb CE164. Creating a GAP.
+MainChain Atoms P missing for ./comp1.pdb CE164. Creating a GAP.
+1 models read: comp1.pdb
+RUNNING COMPLEX ANALYSIS
+./comp1.pdb
+
+BackHbond       =               -109.22
+SideHbond       =               -39.32
+Energy_VdW      =               -211.42
+Electro         =               -5.07
+Energy_SolvP    =               287.26
+Energy_SolvH    =               -271.58
+Energy_vdwclash =               14.16
+energy_torsion  =               3.66
+backbone_vdwclash=              90.73
+Entropy_sidec   =               112.76
+Entropy_mainc   =               244.09
+water bonds     =               0.00
+helix dipole    =               -5.39
+loop_entropy    =               0.00
+cis_bond        =               0.00
+disulfide       =               0.00
+kn electrostatic=               0.00
+partial covalent interactions = 0.00
+Energy_Ionisation =             0.39
+Entropy Complex =               0.00
+-----------------------------------------------------------
+Total          = 				  20.33
+
+Group 0 is composed of chains : E(1)
+Group 1 is composed of chains : A(0)
+Total 
+
+BackHbond       =               -109.22
+SideHbond       =               -39.32
+Energy_VdW      =               -211.42
+Electro         =               -5.07
+Energy_SolvP    =               287.26
+Energy_SolvH    =               -271.58
+Energy_vdwclash =               14.16
+energy_torsion  =               3.66
+backbone_vdwclash=              90.73
+Entropy_sidec   =               112.76
+Entropy_mainc   =               244.09
+water bonds     =               0.00
+helix dipole    =               -5.39
+loop_entropy    =               0.00
+cis_bond        =               0.00
+disulfide       =               0.00
+kn electrostatic=               0.00
+partial covalent interactions = 0.00
+Energy_Ionisation =             0.39
+Entropy Complex =               0.00
+-----------------------------------------------------------
+Total          = 				  20.33
+
+interaction between E and A
+
+BackHbond       =               -4.93
+SideHbond       =               -2.39
+Energy_VdW      =               -17.65
+Electro         =               -0.31
+Energy_SolvP    =               28.54
+Energy_SolvH    =               -18.74
+Energy_vdwclash =               5.25
+energy_torsion  =               0.06
+backbone_vdwclash=              0.95
+Entropy_sidec   =               4.97
+Entropy_mainc   =               3.01
+water bonds     =               0.00
+helix dipole    =               -0.23
+loop_entropy    =               0.00
+cis_bond        =               0.00
+disulfide       =               0.00
+kn electrostatic=               0.00
+partial covalent interactions = 0.00
+Energy_Ionisation =             0.00
+Entropy Complex =               2.38
+-----------------------------------------------------------
+Total          = 				  -2.43
+
+Complex Analysis of ./comp1.pdb went fine
+
+Your file run OK
+End time of FoldX: Fri Oct 28 17:21:56 2022
+Total time spend: 0.50 seconds.

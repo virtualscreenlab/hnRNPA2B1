@@ -1,0 +1,13 @@
+/media/asus/shityakoff/foldx/foldx_31.12.23/./foldx --command=AnalyseComplex --pdb=comp.pdb --complexWithDNA=true
+
+BackHbond       =               -1.17
+SideHbond       =               -9.99
+Energy_VdW      =               -11.79
+Electro         =               -0.66
+Energy_SolvH    =               -12.27
+
+BackHbond       =               -4.93
+SideHbond       =               -2.39
+Energy_VdW      =               -17.65
+Electro         =               -0.31
+Energy_SolvH    =               -18.74
